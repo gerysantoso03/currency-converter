@@ -1,0 +1,14 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "program to convert from and where we want to convert the currency ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gery Santoso",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
